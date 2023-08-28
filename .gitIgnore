@@ -1,10 +1,5 @@
-/Assets
-/Packages
-*.csproj
-*.sln
-/.vscode
-/Library
-/obj
-/ProjectSettings
-/Temp
-*.exe
+*
+*/
+
+!.gitignore
+!/*.json
