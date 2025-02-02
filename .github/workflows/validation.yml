@@ -1,0 +1,20 @@
+name: JSON Validation
+
+on:
+  pull_request:
+    paths:
+      - '**.json'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Validate JSON
+        run: |
+          find . -name "*.json" | while read file; do
+            echo "チェック中: $file"
+            jq empty "$file" || exit 1
+          done
