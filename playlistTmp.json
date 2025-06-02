@@ -1,29 +1,14 @@
 {
-    "tracks": [
-        {
-            "mode": 0,
-            "title": "[後半用][鈴木達也]BPM筋トレ／ランジ 3分",
-            "url": "https://www.youtube.com/watch?v=JXhFhe0tN64"
-        },
-        {
-            "mode": 0,
-            "title": "[後半用][uFit]お腹周りダイエット 3分 ",
-            "url": "https://www.youtube.com/watch?v=qBW-SFGDqZQ"
-        },
-        {
-            "mode": 0,
-            "title": "[後半用][GronG]背筋のトレーニング 3分",
-            "url": "https://www.youtube.com/watch?v=vDjik0AZM9A"
-        },
-        {
-            "mode": 0,
-            "title": "[後半用][GronG]下半身のトレーニング6種目 3分",
-            "url": "https://www.youtube.com/watch?v=cnV0wgHH_1o"
-        },
-        {
-            "mode": 0,
-            "title": "[後半用][たけまり] ボクシングダンス 3分",
-            "url": "https://www.youtube.com/watch?v=DpANRK3AldY"
-        }
-    ]
+  "tracks": [
+    {
+      "mode": 0,
+      "title": "【超初心者向け】運動が苦手でも大丈夫！20秒休憩ありの2分間全身トレーニング！",
+      "url": "https://www.youtube.com/watch?v=8mIAoy1uB58"
+    },
+    {
+      "mode": 0,
+      "title": "【3分体操】座ったままスッキリ体操！デスクワークの合間や飛行機でも！",
+      "url": "https://www.youtube.com/watch?v=O5qUuzDkRCo"
+    }
+  ]
 }
